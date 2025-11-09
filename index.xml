@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to DZWIRE 🌕 on DZWIRE</title>
-    <link>/</link>
+    <link>https://tuviretinfo.github.io/dznews/</link>
     <description>Recent content in Welcome to DZWIRE 🌕 on DZWIRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tuviretinfo@gmail.com (DZWIRE)</managingEditor>
     <webMaster>tuviretinfo@gmail.com (DZWIRE)</webMaster>
     <copyright>© 2025 DZWIRE</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 13:40:51 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 13:40:51 +0100</lastBuildDate><atom:link href="https://tuviretinfo.github.io/dznews/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Earth</title>
-      <link>/posts/earth/earth/</link>
+      <link>https://tuviretinfo.github.io/dznews/posts/earth/earth/</link>
       <pubDate>Sun, 09 Nov 2025 13:40:51 +0100</pubDate>
       <author>tuviretinfo@gmail.com (DZWIRE)</author>
-      <guid>/posts/earth/earth/</guid>
+      <guid>https://tuviretinfo.github.io/dznews/posts/earth/earth/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Firstpost</title>
-      <link>/posts/firstpost/firstpost/</link>
+      <link>https://tuviretinfo.github.io/dznews/posts/firstpost/firstpost/</link>
       <pubDate>Sun, 09 Nov 2025 13:40:51 +0100</pubDate>
       <author>tuviretinfo@gmail.com (DZWIRE)</author>
-      <guid>/posts/firstpost/firstpost/</guid>
+      <guid>https://tuviretinfo.github.io/dznews/posts/firstpost/firstpost/</guid>
       <description></description>
       
     </item>
